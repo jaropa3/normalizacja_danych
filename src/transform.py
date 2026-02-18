@@ -9,8 +9,9 @@ def data_cleaning(df):
     .str.lower()      # lowercase
     .str.replace(" ", "_")  # snake_case
 )
-    text_cols = df.select_dtypes(include="object").columns
-    df[text_cols] = df[text_cols].apply(lambda c: c.str.strip())
+    text_cols = df.select_dtypes(include=["object", "string"]).columns
+    if len(text_cols) == 0:
+        return df
 
     # === 3. Normalizacja produktu ===
     if "produkt" in df.columns:
@@ -46,4 +47,8 @@ def data_cleaning(df):
 # czyszczenie
     df = df.dropna()
     df = df.drop_duplicates()
+    return df
+
+def sortowanie(df):
+    df = df.sort_values(["data_sprzedaży", "produkt"]).reset_index(drop=True)
     return df
