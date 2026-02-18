@@ -1,0 +1,1001 @@
+ Produkt , Ilość , Cena , Sklep , Data sprzedaży 
+ apple,13,10.0,Wrocław ,2024-01-25
+ORANGE ,10,5.78,Wrocław ,2024-01-19
+Orange,8,9.09, Kraków,2024-01-24
+Banana,7,13.21, POZNAŃ,2024-01-05
+ORANGE ,5,8.92,wrocław,2024-01-24
+ORANGE ,18,13.01, POZNAŃ,2024-01-19
+BANANA,19,10.48,Warszawa,2024-01-01
+Orange,2,9.83, POZNAŃ,2024-01-07
+ orange,20,1.98,Wrocław ,2024-01-09
+ apple,3,6.1,Warszawa,2024-01-26
+BANANA,16,9.68, POZNAŃ,2024-01-16
+ORANGE ,20,2.42, Kraków,2024-01-19
+Banana,8,6.7,Warszawa,2024-01-25
+ apple,6,7.1, Kraków,2024-01-27
+banana ,6,14.28, Kraków,2024-01-27
+Banana,19,1.99, Kraków,2024-01-10
+APPLE,19,4.33, Kraków,2024-01-02
+Banana,7,7.67,wrocław,2024-01-18
+ orange,3,6.28,Warszawa,2024-01-26
+BANANA,11,8.28,Wrocław ,2024-01-02
+ORANGE ,19,7.68, Kraków,2024-01-22
+ orange,3,8.28,Gdańsk ,2024-01-23
+Orange,16,5.28,Warszawa,2024-01-15
+ORANGE ,7,13.85,Warszawa,2024-01-21
+APPLE,14,10.68, Kraków,2024-01-12
+Apple,5,3.42,Warszawa,2024-01-23
+Orange,12,7.89,Warszawa,2024-01-05
+ orange,20,12.98,Warszawa,2024-01-26
+banana ,2,9.67,wrocław,2024-01-27
+ORANGE ,19,5.77, Kraków,2024-01-23
+APPLE,4,10.34,Wrocław ,2024-01-11
+banana ,15,9.17,Wrocław ,2024-01-15
+APPLE,15,5.46, Kraków,2024-01-01
+Orange,19,1.92,Gdańsk ,2024-01-19
+APPLE,14,10.85, Kraków,2024-01-11
+ apple,16,1.71, Kraków,2024-01-11
+Orange,6,11.64, POZNAŃ,2024-01-13
+ORANGE ,7,2.61,wrocław,2024-01-09
+banana ,8,6.5,wrocław,2024-01-07
+Orange,18,9.78,Warszawa,2024-01-14
+BANANA,13,12.72,wrocław,2024-01-12
+ORANGE ,8,10.45,Gdańsk ,2024-01-26
+Banana,9,8.37, POZNAŃ,2024-01-10
+BANANA,5,11.99,wrocław,2024-01-16
+banana ,18,13.37, Kraków,2024-01-15
+ orange,13,12.88,Gdańsk ,2024-01-22
+banana ,20,5.32,Gdańsk ,2024-01-06
+banana ,19,11.34, Kraków,2024-01-25
+ orange,17,7.66, Kraków,2024-01-25
+Apple,8,10.44, POZNAŃ,2024-01-25
+ orange,5,14.21,wrocław,2024-01-26
+Orange,15,2.6,Warszawa,2024-01-18
+ apple,14,13.76,Gdańsk ,2024-01-23
+ORANGE ,7,2.06,Wrocław ,2024-01-17
+Banana,10,3.05,Warszawa,2024-01-14
+BANANA,5,8.3,wrocław,2024-01-18
+ orange,4,8.2,Wrocław ,2024-01-11
+Banana,16,6.3,Wrocław ,2024-01-01
+banana ,9,7.76,Gdańsk ,2024-01-19
+ apple,8,9.23, Kraków,2024-01-28
+Orange,18,9.81, POZNAŃ,2024-01-05
+ apple,11,11.2,wrocław,2024-01-03
+Orange,17,11.46,Wrocław ,2024-01-21
+ORANGE ,17,6.96, POZNAŃ,2024-01-15
+Apple,14,2.73,wrocław,2024-01-17
+ apple,9,3.25,Wrocław ,2024-01-21
+ apple,6,7.31, POZNAŃ,2024-01-09
+APPLE,1,9.34,Gdańsk ,2024-01-25
+ORANGE ,16,5.31, POZNAŃ,2024-01-12
+Apple,9,13.74,Gdańsk ,2024-01-15
+ apple,2,4.6, POZNAŃ,2024-01-20
+ORANGE ,3,2.65, Kraków,2024-01-16
+ apple,12,12.35,Gdańsk ,2024-01-24
+ apple,5,8.64,Wrocław ,2024-01-19
+ apple,9,8.64,Warszawa,2024-01-21
+Banana,20,13.74,wrocław,2024-01-02
+ apple,15,4.54, Kraków,2024-01-10
+BANANA,4,5.32, POZNAŃ,2024-01-22
+banana ,3,6.66,Wrocław ,2024-01-07
+ apple,15,14.37,wrocław,2024-01-26
+APPLE,18,5.37,wrocław,2024-01-09
+ORANGE ,17,3.37,Wrocław ,2024-01-24
+BANANA,14,7.86, POZNAŃ,2024-01-28
+BANANA,2,6.98,Wrocław ,2024-01-08
+Orange,8,7.19,wrocław,2024-01-10
+Banana,12,12.12,Gdańsk ,2024-01-26
+ORANGE ,1,4.03,wrocław,2024-01-14
+ orange,10,11.72,wrocław,2024-01-09
+Banana,13,11.6,Wrocław ,2024-01-06
+Apple,14,2.54, POZNAŃ,2024-01-08
+Orange,17,7.77, POZNAŃ,2024-01-05
+BANANA,5,2.77,Gdańsk ,2024-01-28
+Apple,15,3.88,wrocław,2024-01-22
+APPLE,11,7.94,wrocław,2024-01-08
+ORANGE ,12,11.14, POZNAŃ,2024-01-15
+ORANGE ,13,2.88,wrocław,2024-01-16
+ orange,9,5.08, POZNAŃ,2024-01-09
+BANANA,5,13.37,wrocław,2024-01-16
+ORANGE ,19,14.65,Gdańsk ,2024-01-10
+APPLE,19,11.55, Kraków,2024-01-28
+Apple,8,13.73, POZNAŃ,2024-01-06
+Orange,19,13.45, Kraków,2024-01-09
+banana ,8,5.35,Wrocław ,2024-01-13
+APPLE,15,2.12,Gdańsk ,2024-01-03
+APPLE,15,13.07,Warszawa,2024-01-19
+ORANGE ,3,3.71,Warszawa,2024-01-28
+ORANGE ,15,12.44,wrocław,2024-01-09
+ apple,11,6.3, Kraków,2024-01-28
+APPLE,7,1.71, POZNAŃ,2024-01-01
+ orange,15,13.9,Warszawa,2024-01-22
+BANANA,1,1.79,Gdańsk ,2024-01-05
+Apple,5,4.0, Kraków,2024-01-06
+ apple,16,10.53,wrocław,2024-01-15
+APPLE,13,9.55,Warszawa,2024-01-28
+ orange,5,10.97, POZNAŃ,2024-01-14
+ apple,16,14.95, POZNAŃ,2024-01-12
+Banana,3,12.98,Gdańsk ,2024-01-18
+Apple,7,5.73,Wrocław ,2024-01-16
+Orange,17,13.77, Kraków,2024-01-16
+Apple,9,9.74, Kraków,2024-01-02
+ apple,2,5.48, Kraków,2024-01-14
+Apple,15,3.77,wrocław,2024-01-11
+APPLE,11,9.25,Wrocław ,2024-01-10
+ apple,11,12.86,wrocław,2024-01-05
+APPLE,1,12.51,Wrocław ,2024-01-26
+Banana,4,4.29,Warszawa,2024-01-28
+APPLE,15,13.19,Gdańsk ,2024-01-24
+APPLE,10,11.8,wrocław,2024-01-24
+APPLE,20,11.2,wrocław,2024-01-21
+Orange,15,7.26,wrocław,2024-01-21
+banana ,15,2.5,Gdańsk ,2024-01-03
+Banana,3,14.73, Kraków,2024-01-19
+banana ,7,13.51, Kraków,2024-01-02
+BANANA,11,14.59,wrocław,2024-01-27
+banana ,18,5.58,Wrocław ,2024-01-01
+ apple,13,6.74,Wrocław ,2024-01-24
+banana ,5,8.93,Wrocław ,2024-01-08
+ORANGE ,1,3.29,Warszawa,2024-01-01
+ORANGE ,7,4.48,Wrocław ,2024-01-24
+Banana,10,3.83, Kraków,2024-01-05
+BANANA,4,7.7, POZNAŃ,2024-01-17
+ apple,11,5.1,wrocław,2024-01-08
+ orange,15,5.29,Gdańsk ,2024-01-16
+APPLE,7,8.83, POZNAŃ,2024-01-21
+BANANA,4,12.79,Warszawa,2024-01-20
+ apple,8,5.49,Wrocław ,2024-01-23
+banana ,9,13.92, POZNAŃ,2024-01-11
+banana ,16,7.61, POZNAŃ,2024-01-04
+BANANA,11,7.92,wrocław,2024-01-05
+Orange,10,13.15,Gdańsk ,2024-01-03
+Banana,3,11.96,wrocław,2024-01-28
+Banana,14,5.17, POZNAŃ,2024-01-20
+Orange,13,12.74, POZNAŃ,2024-01-27
+BANANA,1,3.32,Wrocław ,2024-01-03
+APPLE,3,12.05, POZNAŃ,2024-01-28
+Banana,2,5.84,Wrocław ,2024-01-18
+BANANA,8,12.34,wrocław,2024-01-12
+BANANA,15,3.62, Kraków,2024-01-23
+Banana,11,10.89, Kraków,2024-01-07
+APPLE,9,2.66, Kraków,2024-01-06
+APPLE,16,8.98, Kraków,2024-01-28
+APPLE,19,4.35,Wrocław ,2024-01-03
+ apple,1,5.82,Wrocław ,2024-01-14
+APPLE,8,5.16,Wrocław ,2024-01-23
+ apple,10,14.66,Wrocław ,2024-01-25
+BANANA,2,10.52,Warszawa,2024-01-04
+Orange,3,1.99,wrocław,2024-01-17
+Banana,3,13.67,Gdańsk ,2024-01-26
+APPLE,10,14.96, POZNAŃ,2024-01-23
+ apple,18,2.07,Gdańsk ,2024-01-13
+Orange,10,5.55,wrocław,2024-01-20
+banana ,4,11.12,wrocław,2024-01-15
+ orange,14,13.39,wrocław,2024-01-24
+BANANA,3,14.43,Wrocław ,2024-01-14
+Apple,13,12.65,wrocław,2024-01-14
+Banana,6,11.68,Wrocław ,2024-01-06
+APPLE,8,11.51,Gdańsk ,2024-01-13
+BANANA,7,1.88, POZNAŃ,2024-01-13
+Apple,8,12.53, Kraków,2024-01-18
+ orange,19,5.58,Gdańsk ,2024-01-22
+ orange,1,9.67,Gdańsk ,2024-01-27
+Banana,18,4.04, Kraków,2024-01-16
+banana ,17,10.17,Gdańsk ,2024-01-27
+APPLE,16,4.43,wrocław,2024-01-22
+ orange,12,9.82, Kraków,2024-01-11
+Banana,5,14.7,wrocław,2024-01-01
+APPLE,14,13.3,wrocław,2024-01-17
+ORANGE ,8,9.36,Warszawa,2024-01-17
+ apple,8,10.82,Warszawa,2024-01-16
+ORANGE ,20,2.76,Gdańsk ,2024-01-11
+ orange,3,9.22, POZNAŃ,2024-01-24
+BANANA,19,7.22,wrocław,2024-01-09
+APPLE,18,9.72, Kraków,2024-01-05
+ orange,20,9.9, POZNAŃ,2024-01-16
+Apple,12,1.99, Kraków,2024-01-10
+ apple,20,8.17,Warszawa,2024-01-16
+ orange,11,5.29,Gdańsk ,2024-01-14
+banana ,1,14.91, Kraków,2024-01-13
+BANANA,2,1.56,Gdańsk ,2024-01-08
+ apple,20,13.82,Wrocław ,2024-01-13
+ orange,3,2.17, Kraków,2024-01-03
+Orange,1,13.87, POZNAŃ,2024-01-09
+ apple,1,4.02,wrocław,2024-01-28
+banana ,6,5.98,Warszawa,2024-01-21
+Banana,9,2.79,Warszawa,2024-01-06
+Apple,20,4.86,wrocław,2024-01-26
+ orange,2,7.25,Warszawa,2024-01-27
+ORANGE ,2,12.32, Kraków,2024-01-03
+APPLE,8,12.42,Gdańsk ,2024-01-14
+Apple,4,6.17,Warszawa,2024-01-19
+ apple,1,12.77,Gdańsk ,2024-01-16
+ orange,4,5.27, POZNAŃ,2024-01-28
+APPLE,15,4.07, Kraków,2024-01-17
+APPLE,13,2.13, Kraków,2024-01-06
+APPLE,9,13.58,wrocław,2024-01-07
+Apple,20,4.09, POZNAŃ,2024-01-23
+ apple,13,5.59,wrocław,2024-01-22
+Banana,5,10.67, Kraków,2024-01-21
+Orange,5,12.56, POZNAŃ,2024-01-12
+BANANA,12,5.29, POZNAŃ,2024-01-11
+Orange,3,13.86,Warszawa,2024-01-04
+ORANGE ,3,9.12,Wrocław ,2024-01-03
+ orange,16,8.93, Kraków,2024-01-06
+ORANGE ,17,11.32, POZNAŃ,2024-01-27
+Banana,8,4.75, POZNAŃ,2024-01-10
+Banana,15,2.23, POZNAŃ,2024-01-28
+Orange,12,2.87, POZNAŃ,2024-01-01
+APPLE,12,10.37, Kraków,2024-01-17
+APPLE,10,2.99,wrocław,2024-01-23
+Banana,1,11.09,Warszawa,2024-01-27
+BANANA,15,13.33,Gdańsk ,2024-01-16
+BANANA,3,1.91,Wrocław ,2024-01-15
+APPLE,7,12.65, Kraków,2024-01-13
+ORANGE ,18,13.75, Kraków,2024-01-26
+banana ,3,9.26, Kraków,2024-01-06
+banana ,16,3.71,Wrocław ,2024-01-08
+BANANA,10,8.97,Warszawa,2024-01-05
+ apple,15,7.84,Wrocław ,2024-01-17
+ orange,8,6.26,Wrocław ,2024-01-14
+Orange,8,9.63, POZNAŃ,2024-01-11
+APPLE,12,14.59,Warszawa,2024-01-26
+Orange,9,7.96,wrocław,2024-01-02
+ apple,2,5.04,Gdańsk ,2024-01-06
+banana ,10,13.29,Wrocław ,2024-01-24
+Apple,6,5.33,wrocław,2024-01-05
+BANANA,4,10.43, Kraków,2024-01-01
+banana ,15,6.54,Wrocław ,2024-01-22
+APPLE,6,8.48,Warszawa,2024-01-07
+Apple,19,4.4, POZNAŃ,2024-01-26
+banana ,5,9.83,Wrocław ,2024-01-27
+BANANA,19,14.03, Kraków,2024-01-02
+ apple,5,6.82,Wrocław ,2024-01-24
+ apple,2,6.41, POZNAŃ,2024-01-02
+banana ,17,11.88,Wrocław ,2024-01-02
+banana ,18,3.1, Kraków,2024-01-08
+Banana,17,12.57, POZNAŃ,2024-01-13
+ apple,8,10.68,wrocław,2024-01-12
+APPLE,19,3.05,Gdańsk ,2024-01-14
+ORANGE ,15,4.35,Gdańsk ,2024-01-02
+ apple,4,8.85,wrocław,2024-01-08
+ orange,20,9.8,Gdańsk ,2024-01-13
+Apple,3,2.57, POZNAŃ,2024-01-09
+BANANA,7,4.05,Wrocław ,2024-01-15
+BANANA,5,10.77,Wrocław ,2024-01-16
+Apple,13,5.69, Kraków,2024-01-22
+Apple,5,14.4,Gdańsk ,2024-01-22
+Apple,17,14.1,Warszawa,2024-01-24
+ORANGE ,8,6.01, POZNAŃ,2024-01-13
+Banana,8,3.74, Kraków,2024-01-16
+Orange,10,3.87, POZNAŃ,2024-01-11
+ apple,8,12.71,Gdańsk ,2024-01-19
+ORANGE ,17,13.46,Warszawa,2024-01-03
+APPLE,17,11.58, Kraków,2024-01-17
+APPLE,1,11.53, POZNAŃ,2024-01-14
+ apple,13,14.52,wrocław,2024-01-09
+banana ,19,4.96,Wrocław ,2024-01-12
+ apple,20,6.62,Warszawa,2024-01-19
+Orange,15,13.83,wrocław,2024-01-16
+Banana,14,1.71,Gdańsk ,2024-01-24
+BANANA,18,14.18,wrocław,2024-01-13
+ORANGE ,15,13.06, POZNAŃ,2024-01-15
+BANANA,19,5.53, POZNAŃ,2024-01-18
+BANANA,15,5.67,Gdańsk ,2024-01-23
+ apple,11,4.0,Gdańsk ,2024-01-01
+BANANA,2,13.23, POZNAŃ,2024-01-27
+ orange,18,10.35,wrocław,2024-01-20
+ apple,11,11.59, POZNAŃ,2024-01-03
+ apple,18,13.72,Wrocław ,2024-01-18
+ORANGE ,13,5.42,Gdańsk ,2024-01-06
+ORANGE ,19,2.77, POZNAŃ,2024-01-01
+ apple,1,4.22,Wrocław ,2024-01-04
+banana ,15,11.5,wrocław,2024-01-01
+Orange,14,13.41,Wrocław ,2024-01-23
+BANANA,10,1.71,wrocław,2024-01-26
+BANANA,6,9.52,Warszawa,2024-01-22
+banana ,19,3.43,Wrocław ,2024-01-02
+ apple,4,9.21,Gdańsk ,2024-01-12
+ apple,15,4.94,Warszawa,2024-01-22
+ apple,15,10.74, Kraków,2024-01-17
+BANANA,8,13.3,Wrocław ,2024-01-09
+ orange,3,9.39, POZNAŃ,2024-01-12
+banana ,8,3.75, POZNAŃ,2024-01-10
+ orange,17,13.35,Warszawa,2024-01-11
+ORANGE ,2,13.34,Wrocław ,2024-01-17
+ orange,9,10.87,Warszawa,2024-01-04
+ORANGE ,10,10.86,Gdańsk ,2024-01-11
+ orange,13,4.98,wrocław,2024-01-24
+ORANGE ,16,3.71,Warszawa,2024-01-09
+ apple,6,12.47,Gdańsk ,2024-01-11
+APPLE,3,3.38,Gdańsk ,2024-01-10
+ORANGE ,13,7.99,Wrocław ,2024-01-03
+ orange,16,4.9,Wrocław ,2024-01-21
+Banana,18,13.23,Wrocław ,2024-01-16
+ apple,20,2.8,Warszawa,2024-01-23
+Orange,6,8.61,Warszawa,2024-01-06
+BANANA,7,10.12, Kraków,2024-01-07
+Apple,18,8.63,Warszawa,2024-01-22
+ORANGE ,11,8.52,Wrocław ,2024-01-05
+Orange,9,14.58,Gdańsk ,2024-01-08
+ apple,14,14.81,Warszawa,2024-01-26
+Apple,4,11.18,Gdańsk ,2024-01-02
+ orange,17,5.01,Wrocław ,2024-01-19
+ apple,2,4.2,Gdańsk ,2024-01-12
+Orange,8,6.67,wrocław,2024-01-17
+Apple,5,11.47,wrocław,2024-01-18
+Apple,18,9.18,Gdańsk ,2024-01-06
+Banana,10,14.6,Wrocław ,2024-01-14
+Banana,2,5.58,Warszawa,2024-01-12
+banana ,19,12.15,Wrocław ,2024-01-20
+APPLE,4,5.3,Wrocław ,2024-01-27
+ apple,12,13.33, Kraków,2024-01-18
+Apple,4,12.28, Kraków,2024-01-26
+APPLE,14,3.15, POZNAŃ,2024-01-08
+ORANGE ,5,8.89, POZNAŃ,2024-01-23
+BANANA,8,8.0, POZNAŃ,2024-01-26
+ apple,9,10.4, Kraków,2024-01-20
+ORANGE ,15,4.74, Kraków,2024-01-11
+Apple,3,9.37, POZNAŃ,2024-01-09
+APPLE,20,9.8, POZNAŃ,2024-01-28
+ORANGE ,1,5.23,Warszawa,2024-01-03
+ apple,6,11.5,Wrocław ,2024-01-01
+ORANGE ,14,10.66, POZNAŃ,2024-01-22
+ orange,1,7.98, POZNAŃ,2024-01-22
+ORANGE ,10,12.08,Gdańsk ,2024-01-01
+APPLE,2,12.82, POZNAŃ,2024-01-05
+APPLE,18,7.37, Kraków,2024-01-13
+ORANGE ,12,4.23,Wrocław ,2024-01-22
+Apple,12,10.04,wrocław,2024-01-09
+ORANGE ,17,14.75, Kraków,2024-01-02
+ apple,1,11.51, Kraków,2024-01-01
+Banana,11,11.3,Warszawa,2024-01-05
+Orange,5,6.85,Warszawa,2024-01-07
+Banana,4,4.12,Gdańsk ,2024-01-19
+BANANA,18,14.21, POZNAŃ,2024-01-02
+APPLE,10,6.99,Warszawa,2024-01-02
+BANANA,15,2.76,Gdańsk ,2024-01-10
+ apple,20,8.75, Kraków,2024-01-28
+Banana,16,4.49,wrocław,2024-01-07
+BANANA,9,10.07,wrocław,2024-01-02
+ORANGE ,18,14.93,Wrocław ,2024-01-27
+ORANGE ,18,10.59, POZNAŃ,2024-01-10
+ orange,17,14.28,Gdańsk ,2024-01-04
+ORANGE ,11,2.54,wrocław,2024-01-25
+BANANA,16,12.3, POZNAŃ,2024-01-12
+Apple,11,3.04,wrocław,2024-01-18
+APPLE,16,14.03,wrocław,2024-01-14
+ orange,12,5.1, Kraków,2024-01-27
+Banana,5,2.6,Wrocław ,2024-01-06
+Banana,5,9.95,Wrocław ,2024-01-17
+Apple,20,9.84,wrocław,2024-01-07
+banana ,2,11.86,Gdańsk ,2024-01-26
+ORANGE ,7,8.44,Gdańsk ,2024-01-13
+banana ,1,10.65,wrocław,2024-01-09
+BANANA,13,14.13, Kraków,2024-01-15
+ apple,11,13.63,Warszawa,2024-01-20
+Orange,6,12.07,Warszawa,2024-01-13
+ORANGE ,1,11.49,Wrocław ,2024-01-21
+ apple,2,11.42,Gdańsk ,2024-01-17
+Orange,10,4.54,wrocław,2024-01-01
+ORANGE ,6,6.06,Wrocław ,2024-01-23
+ orange,6,14.74, Kraków,2024-01-16
+banana ,8,4.49, POZNAŃ,2024-01-18
+ORANGE ,17,8.64,Wrocław ,2024-01-03
+ORANGE ,2,9.3,wrocław,2024-01-22
+APPLE,18,10.74,wrocław,2024-01-28
+Orange,4,6.37, Kraków,2024-01-01
+banana ,18,14.63,Wrocław ,2024-01-09
+Banana,20,5.3,Wrocław ,2024-01-26
+banana ,18,4.97, POZNAŃ,2024-01-16
+banana ,20,10.93,wrocław,2024-01-06
+BANANA,20,2.76, POZNAŃ,2024-01-17
+ apple,17,3.68, Kraków,2024-01-01
+Banana,9,11.77,Wrocław ,2024-01-24
+BANANA,5,14.16,Wrocław ,2024-01-05
+Banana,1,11.22,wrocław,2024-01-21
+ apple,3,14.3,Warszawa,2024-01-14
+ apple,5,12.3,wrocław,2024-01-04
+Orange,5,13.62, POZNAŃ,2024-01-27
+ apple,6,10.17,wrocław,2024-01-03
+ apple,12,4.66,Wrocław ,2024-01-17
+BANANA,9,8.14,Warszawa,2024-01-23
+BANANA,12,8.15,Warszawa,2024-01-02
+ apple,4,11.12,Wrocław ,2024-01-28
+ apple,9,12.97,Warszawa,2024-01-16
+Apple,16,11.2,wrocław,2024-01-08
+Orange,13,4.37,wrocław,2024-01-10
+BANANA,11,13.16,Gdańsk ,2024-01-13
+APPLE,3,9.7, POZNAŃ,2024-01-26
+Banana,2,14.09,Warszawa,2024-01-27
+Orange,15,12.54, POZNAŃ,2024-01-18
+ orange,20,3.88,Warszawa,2024-01-21
+BANANA,15,6.91,wrocław,2024-01-01
+ apple,17,10.58,Gdańsk ,2024-01-02
+ORANGE ,4,8.24,wrocław,2024-01-13
+ apple,4,11.45,wrocław,2024-01-18
+ORANGE ,2,9.35,Gdańsk ,2024-01-05
+ orange,18,13.26,Wrocław ,2024-01-20
+APPLE,19,7.54,wrocław,2024-01-13
+Banana,19,9.76, POZNAŃ,2024-01-17
+ORANGE ,15,4.67, POZNAŃ,2024-01-26
+BANANA,5,12.57,wrocław,2024-01-04
+Banana,12,4.41, Kraków,2024-01-11
+APPLE,6,9.66,Warszawa,2024-01-28
+BANANA,12,8.63,wrocław,2024-01-14
+APPLE,19,3.68,Warszawa,2024-01-22
+Orange,12,8.53, POZNAŃ,2024-01-18
+banana ,7,12.95,Warszawa,2024-01-21
+Orange,7,13.66,Warszawa,2024-01-24
+Orange,20,5.99,wrocław,2024-01-14
+ORANGE ,7,2.06,wrocław,2024-01-09
+banana ,19,9.48,Warszawa,2024-01-28
+APPLE,15,10.64,Warszawa,2024-01-25
+Orange,13,2.41, POZNAŃ,2024-01-27
+ apple,8,8.0,Warszawa,2024-01-21
+ORANGE ,19,9.24,Warszawa,2024-01-16
+Apple,15,11.49, POZNAŃ,2024-01-04
+banana ,13,14.78,Gdańsk ,2024-01-16
+Orange,2,11.71,Warszawa,2024-01-20
+BANANA,18,7.84,wrocław,2024-01-17
+Apple,3,5.12,Wrocław ,2024-01-23
+ orange,5,12.9,Warszawa,2024-01-25
+ORANGE ,18,8.17, POZNAŃ,2024-01-11
+Apple,16,9.49, POZNAŃ,2024-01-15
+ apple,18,5.99,Warszawa,2024-01-05
+Orange,3,14.01, POZNAŃ,2024-01-07
+APPLE,10,7.25, Kraków,2024-01-24
+Apple,18,7.17,Warszawa,2024-01-13
+Apple,6,8.87, POZNAŃ,2024-01-08
+Orange,2,14.0, POZNAŃ,2024-01-20
+Orange,13,14.7,Warszawa,2024-01-04
+Banana,5,13.26, POZNAŃ,2024-01-18
+APPLE,17,13.4,Warszawa,2024-01-26
+BANANA,20,3.92, POZNAŃ,2024-01-03
+ orange,2,12.77,Warszawa,2024-01-06
+Orange,15,8.23, POZNAŃ,2024-01-12
+Orange,3,11.79,Wrocław ,2024-01-05
+Orange,13,12.21,Warszawa,2024-01-19
+BANANA,12,8.12,Gdańsk ,2024-01-21
+Banana,2,7.92,Warszawa,2024-01-03
+banana ,8,10.77,Warszawa,2024-01-16
+APPLE,14,12.56,Wrocław ,2024-01-06
+APPLE,17,6.69, Kraków,2024-01-10
+Apple,3,11.33,wrocław,2024-01-12
+APPLE,12,3.12,Warszawa,2024-01-01
+APPLE,1,2.15, POZNAŃ,2024-01-13
+ orange,3,10.37,Warszawa,2024-01-25
+ apple,8,14.38,Gdańsk ,2024-01-09
+ORANGE ,4,11.04,wrocław,2024-01-20
+ORANGE ,1,12.39, Kraków,2024-01-01
+BANANA,12,11.96,Gdańsk ,2024-01-12
+ orange,11,9.9,Warszawa,2024-01-06
+banana ,13,2.64,wrocław,2024-01-11
+APPLE,18,14.29,Warszawa,2024-01-26
+Orange,9,6.13,wrocław,2024-01-13
+Orange,1,7.28,Wrocław ,2024-01-27
+APPLE,17,10.9,Warszawa,2024-01-21
+Orange,2,6.09,Warszawa,2024-01-12
+Apple,7,9.54,Gdańsk ,2024-01-10
+Apple,12,7.48,wrocław,2024-01-18
+Orange,11,12.32,Warszawa,2024-01-27
+ apple,17,7.7,Gdańsk ,2024-01-13
+ orange,12,8.79,wrocław,2024-01-12
+Orange,16,9.11,Warszawa,2024-01-11
+ apple,12,14.3, Kraków,2024-01-25
+ orange,1,9.43,Wrocław ,2024-01-25
+banana ,18,2.49, POZNAŃ,2024-01-08
+BANANA,3,8.52,Wrocław ,2024-01-04
+APPLE,6,8.28,Gdańsk ,2024-01-19
+Orange,12,8.62, Kraków,2024-01-02
+Banana,7,7.34,wrocław,2024-01-16
+APPLE,17,14.65,Wrocław ,2024-01-08
+BANANA,11,3.19,Warszawa,2024-01-25
+Banana,4,9.55, POZNAŃ,2024-01-25
+ orange,15,9.33,Wrocław ,2024-01-18
+Orange,10,7.01,Gdańsk ,2024-01-20
+banana ,3,14.93,Gdańsk ,2024-01-16
+Orange,16,5.0,wrocław,2024-01-04
+Orange,12,7.32, POZNAŃ,2024-01-24
+Apple,19,9.16, POZNAŃ,2024-01-20
+ apple,16,4.79, Kraków,2024-01-26
+banana ,16,2.76, POZNAŃ,2024-01-07
+APPLE,8,14.01,Wrocław ,2024-01-19
+banana ,7,3.43,Gdańsk ,2024-01-18
+APPLE,1,6.37,wrocław,2024-01-27
+APPLE,12,3.48, Kraków,2024-01-25
+banana ,11,6.58,Gdańsk ,2024-01-24
+BANANA,6,1.66,wrocław,2024-01-16
+Banana,15,14.72,Warszawa,2024-01-03
+Orange,6,7.62, Kraków,2024-01-08
+banana ,6,4.18,Wrocław ,2024-01-08
+Apple,7,3.02,Wrocław ,2024-01-08
+Orange,7,14.55,Gdańsk ,2024-01-24
+Banana,19,14.78,wrocław,2024-01-10
+Banana,11,12.4, Kraków,2024-01-04
+BANANA,5,13.14,Gdańsk ,2024-01-16
+ orange,4,12.55,Wrocław ,2024-01-13
+ apple,5,9.53, POZNAŃ,2024-01-13
+Banana,14,4.55,Wrocław ,2024-01-23
+banana ,18,13.56, Kraków,2024-01-20
+Apple,20,4.65,Gdańsk ,2024-01-15
+Apple,4,1.75,wrocław,2024-01-26
+Banana,13,12.05,Wrocław ,2024-01-22
+ orange,1,11.78, Kraków,2024-01-11
+BANANA,19,7.46, POZNAŃ,2024-01-19
+ orange,15,9.42, POZNAŃ,2024-01-21
+BANANA,10,7.09,wrocław,2024-01-02
+APPLE,6,6.28,wrocław,2024-01-28
+APPLE,13,2.21,Gdańsk ,2024-01-10
+ORANGE ,14,4.24,Wrocław ,2024-01-07
+Banana,2,2.55,wrocław,2024-01-09
+Banana,2,9.43, POZNAŃ,2024-01-19
+ orange,15,10.46, Kraków,2024-01-21
+ apple,9,8.79,Warszawa,2024-01-04
+Banana,13,5.39, Kraków,2024-01-23
+banana ,10,6.51,Warszawa,2024-01-23
+APPLE,20,7.34,Warszawa,2024-01-12
+Apple,2,12.26,Gdańsk ,2024-01-11
+BANANA,13,5.01,wrocław,2024-01-28
+ apple,20,13.28, Kraków,2024-01-02
+Orange,14,4.16,Wrocław ,2024-01-08
+Banana,11,3.36, Kraków,2024-01-04
+BANANA,2,7.66,wrocław,2024-01-17
+Banana,16,3.27,wrocław,2024-01-12
+BANANA,9,2.24,Wrocław ,2024-01-15
+Banana,2,10.0,Gdańsk ,2024-01-27
+BANANA,9,6.14,Gdańsk ,2024-01-25
+Apple,8,10.04,Gdańsk ,2024-01-18
+Orange,10,4.49, POZNAŃ,2024-01-07
+ apple,17,1.54, POZNAŃ,2024-01-26
+ apple,16,7.8, Kraków,2024-01-14
+BANANA,19,14.0, Kraków,2024-01-12
+APPLE,14,14.94, Kraków,2024-01-16
+BANANA,16,14.32,Wrocław ,2024-01-28
+Orange,18,3.17,Wrocław ,2024-01-07
+Apple,13,10.17, Kraków,2024-01-19
+ apple,2,6.0,Warszawa,2024-01-04
+Apple,10,6.25,Warszawa,2024-01-21
+Orange,5,8.07,wrocław,2024-01-21
+ apple,6,13.25,Warszawa,2024-01-20
+Orange,11,10.16, POZNAŃ,2024-01-13
+APPLE,18,7.06,Warszawa,2024-01-06
+APPLE,4,8.13, POZNAŃ,2024-01-21
+ orange,19,7.07,Wrocław ,2024-01-03
+Banana,4,13.24,Wrocław ,2024-01-24
+ orange,15,11.32,Warszawa,2024-01-11
+Orange,1,6.04, Kraków,2024-01-03
+Apple,3,12.57,Warszawa,2024-01-19
+BANANA,4,13.51,Gdańsk ,2024-01-09
+ orange,20,9.28,Gdańsk ,2024-01-16
+ orange,5,10.83, POZNAŃ,2024-01-17
+Orange,8,13.69,Gdańsk ,2024-01-07
+BANANA,15,12.33,Gdańsk ,2024-01-27
+ apple,3,5.93,Warszawa,2024-01-17
+BANANA,10,10.77,Gdańsk ,2024-01-26
+banana ,10,4.59, Kraków,2024-01-24
+ orange,9,1.93,wrocław,2024-01-10
+Banana,13,8.07,Wrocław ,2024-01-03
+ORANGE ,12,4.44,Warszawa,2024-01-11
+Banana,15,8.86,Wrocław ,2024-01-03
+ orange,18,12.13,Gdańsk ,2024-01-25
+Banana,12,8.66,Gdańsk ,2024-01-24
+ORANGE ,15,9.7,Wrocław ,2024-01-02
+banana ,5,14.96,Gdańsk ,2024-01-17
+ apple,17,2.07,Wrocław ,2024-01-18
+ apple,9,10.93,Warszawa,2024-01-08
+banana ,20,14.0,wrocław,2024-01-07
+Orange,2,3.29, POZNAŃ,2024-01-10
+banana ,13,14.71, POZNAŃ,2024-01-01
+ orange,11,14.3, Kraków,2024-01-16
+Orange,14,10.9,Gdańsk ,2024-01-27
+ORANGE ,16,10.45, POZNAŃ,2024-01-20
+Apple,13,7.66,Wrocław ,2024-01-05
+Orange,3,4.74,Gdańsk ,2024-01-21
+banana ,1,4.84,Gdańsk ,2024-01-26
+BANANA,1,11.11,Warszawa,2024-01-20
+Banana,14,4.08,wrocław,2024-01-03
+Orange,11,10.74, POZNAŃ,2024-01-09
+Orange,2,13.87, Kraków,2024-01-04
+Apple,16,12.03,Warszawa,2024-01-22
+BANANA,19,12.59,Gdańsk ,2024-01-12
+BANANA,8,8.21, POZNAŃ,2024-01-20
+ orange,12,12.84, Kraków,2024-01-20
+banana ,4,3.3,Gdańsk ,2024-01-14
+banana ,19,1.95, POZNAŃ,2024-01-22
+BANANA,15,3.59, POZNAŃ,2024-01-02
+BANANA,3,4.86,wrocław,2024-01-22
+APPLE,4,1.82, POZNAŃ,2024-01-28
+Banana,13,8.32,wrocław,2024-01-05
+ orange,1,3.32,wrocław,2024-01-23
+ apple,4,4.39,wrocław,2024-01-13
+BANANA,8,13.97,Warszawa,2024-01-08
+Orange,17,8.01, Kraków,2024-01-04
+ orange,11,14.19, Kraków,2024-01-13
+BANANA,18,5.45, POZNAŃ,2024-01-08
+Apple,9,2.88,wrocław,2024-01-24
+ORANGE ,13,12.87,Gdańsk ,2024-01-08
+BANANA,10,6.73, Kraków,2024-01-13
+Banana,4,2.32,Gdańsk ,2024-01-20
+Apple,5,3.68,Wrocław ,2024-01-15
+ORANGE ,2,2.29, POZNAŃ,2024-01-25
+BANANA,6,4.17, Kraków,2024-01-02
+BANANA,14,13.16, Kraków,2024-01-26
+BANANA,5,2.24,Wrocław ,2024-01-19
+ORANGE ,9,12.02,Wrocław ,2024-01-23
+APPLE,8,2.26,Gdańsk ,2024-01-05
+Apple,13,10.64,Warszawa,2024-01-16
+banana ,17,2.91,Warszawa,2024-01-03
+APPLE,18,11.28, POZNAŃ,2024-01-10
+ orange,19,14.17, Kraków,2024-01-09
+banana ,1,8.37, Kraków,2024-01-10
+ apple,2,14.58, Kraków,2024-01-01
+Banana,1,8.28,Wrocław ,2024-01-16
+APPLE,16,5.65,Gdańsk ,2024-01-27
+ orange,1,6.11,Gdańsk ,2024-01-12
+Orange,17,3.52, POZNAŃ,2024-01-13
+Orange,2,14.75,wrocław,2024-01-04
+BANANA,14,12.87, Kraków,2024-01-17
+Orange,6,12.68, Kraków,2024-01-04
+Banana,16,11.55,Warszawa,2024-01-06
+Banana,3,9.2,Gdańsk ,2024-01-10
+Orange,10,12.91, POZNAŃ,2024-01-09
+ apple,20,10.41,Wrocław ,2024-01-23
+ORANGE ,12,3.03,wrocław,2024-01-26
+ORANGE ,16,4.71,Warszawa,2024-01-04
+BANANA,12,4.65,Wrocław ,2024-01-09
+banana ,20,8.71, Kraków,2024-01-21
+ORANGE ,5,10.62,Warszawa,2024-01-14
+ apple,8,8.49,Gdańsk ,2024-01-03
+ORANGE ,1,5.61, POZNAŃ,2024-01-25
+Apple,1,5.31,Gdańsk ,2024-01-03
+ orange,12,14.59,Gdańsk ,2024-01-24
+ orange,15,9.18, Kraków,2024-01-18
+banana ,11,13.89,Warszawa,2024-01-04
+ apple,5,9.98,Gdańsk ,2024-01-27
+ orange,3,8.98,Gdańsk ,2024-01-08
+ orange,5,3.36, Kraków,2024-01-10
+Apple,6,10.97,Warszawa,2024-01-23
+Orange,15,12.55,wrocław,2024-01-06
+BANANA,13,12.37,Wrocław ,2024-01-19
+Apple,9,7.11,Warszawa,2024-01-27
+APPLE,18,9.65,Gdańsk ,2024-01-20
+Banana,14,8.19, Kraków,2024-01-15
+ orange,12,5.58,Warszawa,2024-01-19
+ apple,4,4.06,Gdańsk ,2024-01-15
+banana ,2,3.87, Kraków,2024-01-18
+BANANA,3,9.1,Warszawa,2024-01-07
+ apple,5,7.85,Wrocław ,2024-01-13
+Apple,6,8.09, Kraków,2024-01-18
+APPLE,11,6.28, POZNAŃ,2024-01-28
+BANANA,12,9.92, POZNAŃ,2024-01-04
+ORANGE ,11,8.87,Warszawa,2024-01-02
+APPLE,15,9.83,wrocław,2024-01-03
+ orange,1,9.83, Kraków,2024-01-20
+Orange,9,9.09,Wrocław ,2024-01-02
+Banana,12,11.49,wrocław,2024-01-05
+Orange,19,11.89,wrocław,2024-01-23
+Banana,3,6.59, Kraków,2024-01-14
+Banana,12,12.99,wrocław,2024-01-03
+Orange,2,9.23,Wrocław ,2024-01-15
+ORANGE ,19,14.78,wrocław,2024-01-15
+ orange,4,6.03,Gdańsk ,2024-01-08
+APPLE,15,12.22,Warszawa,2024-01-13
+Banana,14,8.23, Kraków,2024-01-26
+APPLE,1,10.22,wrocław,2024-01-08
+Banana,12,9.31, POZNAŃ,2024-01-02
+ apple,13,4.07,Wrocław ,2024-01-06
+ORANGE ,17,11.61, POZNAŃ,2024-01-02
+Banana,7,5.51,Gdańsk ,2024-01-23
+ orange,15,4.75,Gdańsk ,2024-01-01
+Apple,6,4.53, POZNAŃ,2024-01-09
+APPLE,15,2.83,Warszawa,2024-01-16
+BANANA,5,5.2,wrocław,2024-01-23
+APPLE,1,10.16,Wrocław ,2024-01-26
+Orange,13,6.35,wrocław,2024-01-28
+APPLE,19,3.29, POZNAŃ,2024-01-22
+Apple,10,6.12,Warszawa,2024-01-10
+ORANGE ,12,11.06, POZNAŃ,2024-01-12
+ orange,10,9.07,Wrocław ,2024-01-22
+Orange,8,7.63,Wrocław ,2024-01-20
+ apple,6,14.49,Wrocław ,2024-01-06
+banana ,12,13.56,Wrocław ,2024-01-03
+APPLE,13,4.42, Kraków,2024-01-26
+Orange,8,4.39,Wrocław ,2024-01-22
+Banana,10,12.42, POZNAŃ,2024-01-07
+Orange,7,3.05, POZNAŃ,2024-01-12
+ apple,2,10.55,wrocław,2024-01-03
+Apple,8,10.22,Warszawa,2024-01-05
+BANANA,14,7.79,Gdańsk ,2024-01-09
+Banana,6,3.98,Warszawa,2024-01-03
+ orange,19,10.56,Warszawa,2024-01-07
+ORANGE ,5,3.34,Warszawa,2024-01-22
+APPLE,18,7.4,Wrocław ,2024-01-18
+APPLE,4,12.34,wrocław,2024-01-07
+ orange,13,8.02,wrocław,2024-01-11
+ apple,19,14.37,Warszawa,2024-01-13
+APPLE,9,7.91,Warszawa,2024-01-27
+Banana,9,14.54, POZNAŃ,2024-01-02
+Orange,3,3.36, Kraków,2024-01-05
+ apple,4,2.51, POZNAŃ,2024-01-16
+APPLE,9,4.61,Warszawa,2024-01-18
+ orange,5,7.28, POZNAŃ,2024-01-14
+ORANGE ,18,6.87,Wrocław ,2024-01-18
+ORANGE ,11,4.96,Wrocław ,2024-01-05
+ apple,7,6.12,Warszawa,2024-01-15
+banana ,16,6.98, POZNAŃ,2024-01-15
+Apple,14,4.1, Kraków,2024-01-12
+ apple,3,14.66,Wrocław ,2024-01-17
+banana ,15,8.58, POZNAŃ,2024-01-02
+APPLE,16,7.25, Kraków,2024-01-26
+APPLE,7,6.65, POZNAŃ,2024-01-09
+ORANGE ,4,7.35,wrocław,2024-01-21
+ apple,18,3.38,Warszawa,2024-01-12
+ apple,5,3.17, Kraków,2024-01-26
+BANANA,3,2.61,Gdańsk ,2024-01-25
+APPLE,12,1.93,Wrocław ,2024-01-17
+Banana,16,14.62,Wrocław ,2024-01-07
+Apple,7,11.85, Kraków,2024-01-09
+ORANGE ,13,4.19, POZNAŃ,2024-01-12
+Banana,1,7.3,Warszawa,2024-01-25
+Apple,3,3.11,Warszawa,2024-01-01
+APPLE,8,13.16,wrocław,2024-01-03
+Orange,10,10.79,Warszawa,2024-01-14
+ORANGE ,2,9.78,Wrocław ,2024-01-01
+banana ,3,11.02, POZNAŃ,2024-01-20
+BANANA,11,2.44,Warszawa,2024-01-02
+BANANA,10,3.47,wrocław,2024-01-02
+APPLE,17,3.51,Warszawa,2024-01-09
+ orange,2,3.36, POZNAŃ,2024-01-13
+banana ,14,2.65,wrocław,2024-01-10
+Orange,10,6.99, Kraków,2024-01-14
+APPLE,13,2.92,Gdańsk ,2024-01-20
+BANANA,4,3.75, POZNAŃ,2024-01-15
+BANANA,3,10.92,Wrocław ,2024-01-21
+ apple,2,4.38,Gdańsk ,2024-01-02
+BANANA,8,5.32, POZNAŃ,2024-01-25
+ apple,8,11.48,wrocław,2024-01-15
+APPLE,14,4.37, POZNAŃ,2024-01-14
+Banana,4,12.17,Warszawa,2024-01-11
+banana ,16,11.48,Gdańsk ,2024-01-05
+ orange,6,9.3, POZNAŃ,2024-01-23
+Orange,2,13.84, Kraków,2024-01-04
+BANANA,17,8.08,Warszawa,2024-01-27
+ apple,11,14.05,Gdańsk ,2024-01-18
+banana ,8,6.11, Kraków,2024-01-28
+BANANA,19,11.39,Gdańsk ,2024-01-09
+BANANA,4,1.93, POZNAŃ,2024-01-06
+ orange,13,3.35,wrocław,2024-01-25
+ORANGE ,9,14.38, Kraków,2024-01-26
+ apple,2,2.35,Warszawa,2024-01-07
+Apple,5,13.88,wrocław,2024-01-01
+Apple,12,10.03,Wrocław ,2024-01-22
+APPLE,16,13.5,wrocław,2024-01-26
+BANANA,8,5.07, POZNAŃ,2024-01-13
+ORANGE ,4,4.36, Kraków,2024-01-13
+Orange,20,5.51,Warszawa,2024-01-21
+ orange,1,10.98,wrocław,2024-01-03
+Banana,8,5.68,Wrocław ,2024-01-05
+Orange,18,4.91, POZNAŃ,2024-01-08
+ apple,19,5.45,Gdańsk ,2024-01-11
+ORANGE ,12,5.11,Wrocław ,2024-01-20
+APPLE,7,6.76,Gdańsk ,2024-01-04
+Apple,2,5.68,Gdańsk ,2024-01-17
+Apple,8,7.0, Kraków,2024-01-27
+APPLE,5,3.37, POZNAŃ,2024-01-27
+APPLE,16,5.73,Gdańsk ,2024-01-12
+Orange,10,3.57, POZNAŃ,2024-01-14
+APPLE,12,12.48,wrocław,2024-01-17
+ orange,9,3.11, POZNAŃ,2024-01-20
+Orange,14,2.41,Gdańsk ,2024-01-14
+ORANGE ,11,13.47,wrocław,2024-01-22
+Banana,17,9.76,Wrocław ,2024-01-08
+Banana,4,4.92, Kraków,2024-01-14
+ apple,14,3.76,Wrocław ,2024-01-28
+Orange,16,5.15,Warszawa,2024-01-12
+ apple,17,11.13, POZNAŃ,2024-01-22
+APPLE,9,3.4,wrocław,2024-01-02
+BANANA,5,12.77,Gdańsk ,2024-01-10
+Banana,12,12.21, Kraków,2024-01-10
+APPLE,13,12.27,wrocław,2024-01-11
+Banana,13,9.28, Kraków,2024-01-23
+BANANA,15,14.55, Kraków,2024-01-07
+Orange,20,5.66, Kraków,2024-01-05
+Apple,20,6.82, Kraków,2024-01-12
+BANANA,15,1.68, POZNAŃ,2024-01-09
+Banana,18,10.15,Wrocław ,2024-01-25
+BANANA,17,7.49, POZNAŃ,2024-01-13
+Apple,4,3.66,Wrocław ,2024-01-22
+Orange,17,14.95,Warszawa,2024-01-06
+Banana,7,13.66,wrocław,2024-01-10
+Apple,17,8.76,wrocław,2024-01-01
+APPLE,12,10.02, POZNAŃ,2024-01-11
+Apple,20,9.76,Gdańsk ,2024-01-28
+ apple,19,3.81, Kraków,2024-01-08
+Orange,13,10.86,Warszawa,2024-01-25
+BANANA,7,8.84,wrocław,2024-01-10
+Banana,15,7.36,Warszawa,2024-01-27
+banana ,19,7.33,Gdańsk ,2024-01-25
+APPLE,6,12.15, Kraków,2024-01-28
+APPLE,14,13.68,Warszawa,2024-01-14
+banana ,7,8.41,Wrocław ,2024-01-18
+ orange,3,12.41,wrocław,2024-01-03
+BANANA,6,3.81, Kraków,2024-01-28
+Banana,11,1.59, POZNAŃ,2024-01-02
+Orange,1,13.08,Warszawa,2024-01-25
+Apple,4,1.78,Warszawa,2024-01-17
+banana ,12,13.87,Gdańsk ,2024-01-23
+BANANA,19,13.52,Gdańsk ,2024-01-27
+APPLE,6,6.32, POZNAŃ,2024-01-02
+ orange,5,4.91,Wrocław ,2024-01-24
+Banana,15,9.04,Wrocław ,2024-01-01
+ apple,13,4.14,Gdańsk ,2024-01-16
+Orange,6,6.7,Wrocław ,2024-01-16
+banana ,10,10.73,Warszawa,2024-01-05
+ apple,7,11.19, Kraków,2024-01-26
+ apple,18,10.49,wrocław,2024-01-15
+banana ,10,11.08,wrocław,2024-01-02
+banana ,6,5.32,Gdańsk ,2024-01-01
+Orange,3,4.5, Kraków,2024-01-20
+banana ,4,13.81,Warszawa,2024-01-26
+ORANGE ,19,11.7,Warszawa,2024-01-13
+banana ,19,11.56,Warszawa,2024-01-06
+ orange,7,4.47, POZNAŃ,2024-01-24
+APPLE,16,8.94,wrocław,2024-01-17
+APPLE,11,10.06,Warszawa,2024-01-28
+ apple,7,6.36, POZNAŃ,2024-01-05
+Orange,10,5.63,wrocław,2024-01-27
+ orange,7,6.96,Wrocław ,2024-01-03
+Orange,2,12.97, Kraków,2024-01-20
+Orange,11,7.25,Warszawa,2024-01-05
+BANANA,9,5.46, POZNAŃ,2024-01-26
+ apple,10,9.5,wrocław,2024-01-14
+ORANGE ,13,3.49,wrocław,2024-01-19
+Apple,14,9.06,Warszawa,2024-01-28
+APPLE,4,13.97,wrocław,2024-01-10
+ orange,14,4.16, Kraków,2024-01-18
+ orange,12,12.73,Gdańsk ,2024-01-20
+ apple,6,1.7, POZNAŃ,2024-01-07
+BANANA,20,3.21,Wrocław ,2024-01-27
+Apple,10,2.57, POZNAŃ,2024-01-20
+BANANA,10,6.5, Kraków,2024-01-22
+APPLE,13,6.42,Gdańsk ,2024-01-20
+Apple,2,2.46, Kraków,2024-01-26
+Banana,4,14.07,Warszawa,2024-01-13
+banana ,16,13.28,Wrocław ,2024-01-26
+Orange,7,10.71,Gdańsk ,2024-01-10
+banana ,4,4.64,Gdańsk ,2024-01-15
+Apple,16,4.06, POZNAŃ,2024-01-03
+Apple,8,11.26,Gdańsk ,2024-01-09
+ apple,14,13.97, Kraków,2024-01-27
+ORANGE ,15,9.94,wrocław,2024-01-11
+ORANGE ,4,2.25, Kraków,2024-01-13
+Orange,1,12.08,Warszawa,2024-01-09
+banana ,6,11.54, POZNAŃ,2024-01-15
+Orange,2,13.28,wrocław,2024-01-15
+Banana,19,13.3, POZNAŃ,2024-01-10
+Orange,16,3.88, Kraków,2024-01-21
+BANANA,14,8.25, Kraków,2024-01-14
+APPLE,12,14.15,wrocław,2024-01-28
+Orange,8,5.04,Wrocław ,2024-01-03
+ apple,5,9.18,Wrocław ,2024-01-24
+BANANA,9,1.86,wrocław,2024-01-18
+Apple,19,9.06, Kraków,2024-01-17
+Apple,6,3.41, POZNAŃ,2024-01-10
+ apple,15,12.88,Warszawa,2024-01-27
+banana ,19,2.98,Gdańsk ,2024-01-24
+Orange,4,11.77,Wrocław ,2024-01-04
+Orange,15,10.74, POZNAŃ,2024-01-01
+ORANGE ,12,14.46,Wrocław ,2024-01-11
+BANANA,13,10.27,wrocław,2024-01-12
+ orange,13,6.75,Warszawa,2024-01-27
+ orange,4,8.05,wrocław,2024-01-21
+ orange,17,2.35, Kraków,2024-01-13
+BANANA,9,11.91,Wrocław ,2024-01-04
+ orange,20,12.87,Warszawa,2024-01-04
+Orange,5,9.07,Warszawa,2024-01-06
+BANANA,1,10.5,Gdańsk ,2024-01-22
+Orange,14,11.71, POZNAŃ,2024-01-14
+BANANA,6,14.36, Kraków,2024-01-09
+ orange,15,7.64, Kraków,2024-01-18
+APPLE,7,14.78,Gdańsk ,2024-01-16
+banana ,4,8.22,Warszawa,2024-01-15
+ orange,3,1.87,Wrocław ,2024-01-14
+APPLE,3,11.83, POZNAŃ,2024-01-27
+ORANGE ,4,14.27,wrocław,2024-01-06
+APPLE,10,6.3,Gdańsk ,2024-01-14
+Banana,7,11.54, POZNAŃ,2024-01-22
+ORANGE ,4,13.53,wrocław,2024-01-19
+APPLE,14,9.53,wrocław,2024-01-27
+Orange,9,3.57,Wrocław ,2024-01-12
+banana ,10,5.46,Warszawa,2024-01-23
+ orange,2,6.89,Wrocław ,2024-01-20
+BANANA,1,2.86,Wrocław ,2024-01-02
+banana ,10,12.61,wrocław,2024-01-24
+APPLE,14,2.88, POZNAŃ,2024-01-16
+APPLE,9,2.46,Gdańsk ,2024-01-16
+Apple,18,8.69,Warszawa,2024-01-24
+APPLE,20,6.89,Gdańsk ,2024-01-04
+banana ,17,6.33,Wrocław ,2024-01-21
+Banana,11,4.85, Kraków,2024-01-14
+APPLE,4,10.05,Gdańsk ,2024-01-13
+BANANA,7,6.52, POZNAŃ,2024-01-05
+banana ,7,6.97, POZNAŃ,2024-01-14
+Orange,4,5.25, POZNAŃ,2024-01-12
+Orange,11,12.14,wrocław,2024-01-10
+BANANA,2,14.56, Kraków,2024-01-06
+BANANA,16,3.89,Warszawa,2024-01-15
+BANANA,16,10.26,Wrocław ,2024-01-14
+banana ,19,13.51, POZNAŃ,2024-01-09
+Apple,18,5.75,wrocław,2024-01-18
+Banana,14,2.11, Kraków,2024-01-24
+Orange,11,9.59, POZNAŃ,2024-01-04
+APPLE,9,3.91,Gdańsk ,2024-01-08
+Apple,18,2.44,Wrocław ,2024-01-18
+ORANGE ,12,12.04, POZNAŃ,2024-01-11
+ORANGE ,7,13.64, POZNAŃ,2024-01-13
+ orange,7,14.52,Gdańsk ,2024-01-22
+banana ,6,4.96,Warszawa,2024-01-11
+ orange,15,4.85,Wrocław ,2024-01-03
+banana ,20,2.31, Kraków,2024-01-02
+banana ,16,12.03,wrocław,2024-01-05
+Apple,1,7.3, Kraków,2024-01-02
+Apple,13,6.7,Gdańsk ,2024-01-12
+ orange,8,7.35,wrocław,2024-01-06
+ orange,3,10.7, POZNAŃ,2024-01-03
+APPLE,3,6.28,Warszawa,2024-01-26
+Orange,14,6.68,Wrocław ,2024-01-19
+banana ,7,11.6, POZNAŃ,2024-01-09
+Orange,13,13.69,wrocław,2024-01-09
+ orange,17,5.48,Warszawa,2024-01-11
+ apple,18,11.68, POZNAŃ,2024-01-16
+ orange,10,10.39,Warszawa,2024-01-07
+Orange,13,13.19,Gdańsk ,2024-01-03
+Apple,11,1.87,Wrocław ,2024-01-14
+Orange,9,6.15, Kraków,2024-01-04
+ orange,7,7.47,Wrocław ,2024-01-24
+ apple,8,4.75, Kraków,2024-01-26
+ apple,5,3.2, POZNAŃ,2024-01-26
+ orange,11,8.12,Warszawa,2024-01-04
+Orange,11,4.5,Wrocław ,2024-01-28
+Apple,17,14.32, Kraków,2024-01-03
+BANANA,16,12.54,Wrocław ,2024-01-01
+Orange,19,7.92,Wrocław ,2024-01-03
+ orange,9,5.27,Gdańsk ,2024-01-24
+ORANGE ,20,5.15,Wrocław ,2024-01-07
+Apple,6,14.3,Wrocław ,2024-01-09
+Orange,8,2.26,Wrocław ,2024-01-02
+Apple,17,11.54,Wrocław ,2024-01-17
+Orange,1,5.91, Kraków,2024-01-04
+BANANA,18,10.0,Gdańsk ,2024-01-25
+APPLE,8,12.76,Warszawa,2024-01-23
+Banana,19,9.29,Gdańsk ,2024-01-17
+APPLE,10,3.39, POZNAŃ,2024-01-01
+APPLE,11,14.89,Warszawa,2024-01-03
+ORANGE ,4,4.41, Kraków,2024-01-02
+Orange,10,1.93, POZNAŃ,2024-01-08
+banana ,11,14.57,wrocław,2024-01-17
+BANANA,16,12.66,Gdańsk ,2024-01-04
+banana ,1,11.61,wrocław,2024-01-18
+banana ,16,4.61,wrocław,2024-01-16
+Orange,3,11.76,wrocław,2024-01-28
+BANANA,1,13.6, POZNAŃ,2024-01-25
+BANANA,11,3.69,Wrocław ,2024-01-04
+ orange,18,5.46,Wrocław ,2024-01-10
+banana ,19,10.04,Wrocław ,2024-01-01
+ORANGE ,9,14.68, POZNAŃ,2024-01-14
+banana ,14,3.04,Gdańsk ,2024-01-28
+Orange,15,13.26, POZNAŃ,2024-01-16
+ apple,11,7.01,Gdańsk ,2024-01-24
+Orange,3,13.5,Wrocław ,2024-01-18
+Orange,11,3.21, Kraków,2024-01-04
+Apple,6,7.27,Gdańsk ,2024-01-19
+ORANGE ,2,10.73,Wrocław ,2024-01-08
+APPLE,15,1.54,Warszawa,2024-01-25
+APPLE,20,9.41,Gdańsk ,2024-01-08
+BANANA,5,8.08,Wrocław ,2024-01-20
+APPLE,4,4.16,Warszawa,2024-01-15
+ORANGE ,15,2.45,Gdańsk ,2024-01-22
+ orange,1,2.47, POZNAŃ,2024-01-02
+APPLE,20,1.82, Kraków,2024-01-20
+APPLE,14,2.44,Gdańsk ,2024-01-28

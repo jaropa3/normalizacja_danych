@@ -1,0 +1,1 @@
+FILE_PATH = "F:/ITwork/normalizacja_brudnych_danych/data/brudne_dane_produkty.csv"
