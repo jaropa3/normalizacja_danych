@@ -37,4 +37,13 @@ def data_cleaning(df):
     }
     df["produkt"] = df["produkt"].map(mapa_normalizacyjna_produkt).fillna(df["produkt"])
     df["sklep"] = df["sklep"].map(mapa_normalizacyjna_miast).fillna(df["sklep"])
+
+    # typy
+    df["data_sprzedaży"] = pd.to_datetime(df["data_sprzedaży"], errors="coerce")
+    df["ilość"] = pd.to_numeric(df["ilość"], errors="coerce")
+    df["cena"] = pd.to_numeric(df["cena"], errors="coerce")
+
+# czyszczenie
+    df = df.dropna()
+    df = df.drop_duplicates()
     return df
